@@ -4,5 +4,10 @@
 
 'Digital Experiment' can help by offering detailed explanations and practical advice on experimental design, data collection, and analysis techniques. It can assist in debugging code, optimizing experimental setups, and ensuring that methodologies are scientifically sound. Additionally, it encourages creative problem-solving and exploration by suggesting alternative approaches and innovative solutions. By adapting to the user's specific needs and clarifying ambiguous requests, 'Digital Experiment' aims to make the process of conducting digital experiments more efficient and effective.
 
+#
+### Example Usage
+
+[digital_experiment.txt](https://github.com/sourceduty/Digital_Experiment/files/15380712/digital_experiment.txt)
+
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
